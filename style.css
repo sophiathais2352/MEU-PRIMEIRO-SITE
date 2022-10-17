@@ -1,0 +1,77 @@
+
+/****************************************/
+/****************************************/
+/************NAVBAR****************************/
+
+#navbar {
+    height: 50px;
+    background-color: rgb(153, 153, 153);
+}
+   
+
+/****************************************/
+/****************************************/
+/************SECTION****************************/
+
+#section {
+    background-color: beige;
+    width: 85%;
+}
+
+/* Associação pelo elemento*/
+h1 {
+    color :rgb(253, 65, 65);
+}
+
+/* Associação pelo id*/
+#titulo1 {
+    font-size: 20px;
+}
+
+/* Associação pela classe*/
+.titulo {
+    font-style: italic;
+}
+
+p, h1 {
+    background-color: beige;
+}
+.destaque {
+    color: rgb(38, 89, 255);
+}
+ol {
+    background-color: azure;
+}
+h3 {
+    color: blue;
+}
+a {
+    color: pink;
+}
+#mudedecor {
+    color: rgb(173, 10, 146);
+    background-color: black;
+}
+img {
+    width: 300px;
+}
+#mudarimagem {
+    height: 150px;
+}
+/****************************************/
+/****************************************/
+/************MENU CONTEXTO****************************/
+# menucontexto {
+    background-color: black;
+}
+
+
+/****************************************/
+/****************************************/
+/************FOOTER****************************/
+
+#footer {
+    background-color: rgb(153, 153, 153);
+    height: 20 px;
+    color: aliceblue;
+}
