@@ -1,0 +1,3 @@
+# MEU-PRIMEIRO-SITE
+Este é o primeiro site de muitos que irei desenvolver. Espero que no futuro olhe com orgulho todo seu aprendizado.
+![USER FLOW MEU PRIMEIRO SITE-1](https://user-images.githubusercontent.com/112964187/197021579-6da6c295-b57b-4bda-96a9-abf8b189627f.png)
